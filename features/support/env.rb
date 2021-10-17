@@ -1,0 +1,7 @@
+require 'ffaker'
+require 'json'
+require 'pry'
+require 'cucumber'
+require 'httparty'
+require 'rspec'
+require 'report_builder'
